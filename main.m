@@ -6,10 +6,10 @@ format long;
 format compact;
 func_num=1;
 
-% Paper: ¡°Multi-Surrogate-Assisted Stochastic Fractal Search Based on Scale-free Network for High-Dimensional Expensive Optimization¡±
+% Paper: â€œMulti-Surrogate-Assisted Stochastic Fractal Search Based on Scale-free Network for High-Dimensional Expensive Optimizationâ€
 %the main execution file
 
-addpath('E:\ÂÛÎÄÏà¹Ø\SF_MSASFS\SF-MSASFS×îÖÕÉÏ´«´úÂëÎÄ¼ş\test function matlab files')%Set Corresponding Path
+addpath('E:\test function matlab files')%Set Corresponding Path
 pop_size=40;
 dim=50; 
 Max_FES = 1000;
