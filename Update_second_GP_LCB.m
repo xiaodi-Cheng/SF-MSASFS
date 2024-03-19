@@ -19,7 +19,7 @@ for i = 1 : Start_Point
             while R1 == R2
                 R2 = ceil(rand*size(positions,1));
             end
-             step=randstep(1,size(positions,2));
+             step = rand(1,size(positions,2));
 
             if rand < .5
                 ReplacePoint(i,:) = positions(i,:) - ...
