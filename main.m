@@ -6,7 +6,8 @@ format long;
 format compact;
 func_num=1;
 
-% Paper: “Multi-Surrogate-Assisted Stochastic Fractal Search Based on Scale-free Network for High-Dimensional Expensive Optimization”
+% Cheng X, Hu W, Yu Y, et al. Multi-surrogate-assisted stochastic fractal search based on scale-free network for high-dimensional 
+% expensive optimization[J]. Expert Systems with Applications, 2024: 123517.
 %the main execution file
 
 addpath('E:\test function matlab files')%Set Corresponding Path
